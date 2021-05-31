@@ -1,0 +1,4 @@
+Give me the degrees first, followed by minutes and sec...
+The LORAN has a digital printout of your latitude and longitude. Give me the coordinates and we'll be there as quick as we can.
+Is your ship equipped with Omega satellite navigation or LORAN?
+What is your location?
